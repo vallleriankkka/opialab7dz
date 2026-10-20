@@ -30,7 +30,7 @@
    Нет: "?"
 6. Конец
 ### Блок-схема:
-<img width="1002" height="792" alt="лаб7дз" src="https://github.com/user-attachments/assets/74410723-9c43-4513-85fe-582cd4a9e261" />
+<img width="1002" height="792" alt="лаб7дз" src="https://github.com/user-attachments/assets/d586689f-906d-4df3-be30-bfa13a0d2134" />
 
 ## 2. Реализация программы
 ```c
